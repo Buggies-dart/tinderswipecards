@@ -11,8 +11,8 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Tinder Card Swipe',
+debugShowCheckedModeBanner: false,
+title: 'Tinder Cards',
       theme: ThemeData(
         primarySwatch: Colors.pink,
         scaffoldBackgroundColor: Colors.white,
